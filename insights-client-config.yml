@@ -1,0 +1,5 @@
+redhat_portal_username: jwelby@redhat.com
+redhat_portal_password: Beavis04!
+insights_display_name: Cisco_SWAT_Tower
+autoconfig: False
+authmethod: BASIC
