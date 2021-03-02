@@ -1,7 +1,4 @@
 - hosts: all
   roles:
   - role: RedHatInsights.insights-client
-      vars:
-        insights_display_name: 'Cisco SWAT Tower'
-        ansible_python_interpreter: '/usr/libexec/platform-python'
-    when: ansible_os_family == 'RedHat'
+      
